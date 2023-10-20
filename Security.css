@@ -26,6 +26,7 @@ body {
   color: rgb(242, 160, 8);
 }
 
+
 /*header section styles*/ 
 .header-1 {
   display: flex;
@@ -215,9 +216,14 @@ ul li:hover .dropdown {
 .cover-image{
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.27), rgba(0, 0, 0, 0.67)),
+
+  url(./images/iphone-15-finish-select-202309-6-1inch_GEO_EMEA_FMT_WHH.jpeg);
+  background-position: center;
+
   url(images/1000_F_314876249_O2GFOsWQy2KoBHrBWBWJsipsYbg25Q4J.jpg);
   background-position: center;
   background-color: aqua;
+
   height: 280px;
   margin-bottom: 2rem;
 }
@@ -698,5 +704,4 @@ span {
   border-radius: 50px;
 }
 }
-
 
